@@ -1,4 +1,6 @@
 # Blog
+To start
+yarn start
 
 SignUp 
 POST  http://localhost:5000/api/users/signup
